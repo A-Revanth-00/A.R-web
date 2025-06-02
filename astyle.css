@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+}
+h1{
+  color: white;
+}
+p{
+  color: white;
+}
+li{
+  color: white;
+}
+h2{
+  color: white;
+}
+div{
+  color: white;
+}
+h2{
+  text-align: center;
+}
+div{
+  padding-block-start: 25px;
+}
+

@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+}
+p{
+    font-weight: bold;
+    font-size: x-large;
+}
+ol{
+    font-weight: bold;
+    font-size: x-large;
+}
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: rgb(0, 115, 255);
+}
+h1 {
+animation: text 5s 1;
+   text-align: center;
+}
+
+@keyframes text {
+    from {
+        transform: translateY(200px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+p {
+animation: text 5s 1;
+   text-align: center;
+}
+ol {
+animation: text 5s 1;
+   text-align: center;
+}
+li {
+animation: text 5s 1;
+   text-align: center;
+}
